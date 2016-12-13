@@ -1,4 +1,4 @@
-=== Legi Display ===
+=== Legiy Display ===
 
 Author: SedLex
 Contributors: SedLex
